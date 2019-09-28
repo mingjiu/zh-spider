@@ -6,5 +6,9 @@
   "repository": "https://github.com/mingjiu/zh-spider.git",
   "author": "mjhuang <hmj0718@163.com>",
   "license": "MIT",
-  "private": null
+  "private": false,
+  "dependencies": {
+    "axios": "^0.19.0",
+    "cheerio": "^1.0.0-rc.3"
+  }
 }
