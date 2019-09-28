@@ -1,0 +1,10 @@
+{
+  "name": "zh-spider",
+  "version": "1.0.0",
+  "description": "别看了，反正不关你事",
+  "main": "index.js",
+  "repository": "https://github.com/mingjiu/zh-spider.git",
+  "author": "mjhuang <hmj0718@163.com>",
+  "license": "MIT",
+  "private": null
+}
